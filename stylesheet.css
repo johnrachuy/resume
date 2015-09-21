@@ -1,23 +1,7 @@
 #container {
-	font-family: sans-serif;
+	font-family: 'Lato', sans-serif;
 	width: 800px;
 	margin: 40px auto 60px;
-}
-
-.line-separator {
-	height: 1px;
-	background: #717171;
-	border-bottom: 1px solid #313030;
-	width: 100%;
-}
-
-.date {
-	float: right;
-}
-
-#resume-header {
-	margin: 0px auto;
-	width: 70%;
 }
 
 .desc-left {
@@ -29,4 +13,28 @@
 .desc-right {
 	float: left;
 	width: 75%;
+}
+
+.head-left {
+	float: left;
+	width: 25%;
+	height: 200px;
+}
+
+.head-right {
+	float: left;
+	width: 75%;
+	height: 200px;
+}
+
+.color {
+	color: #ff6600;
+}
+
+h4 {
+	color: #b0b0b0;
+}
+
+.text {
+	font-weight: 300;
 }
