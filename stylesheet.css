@@ -33,8 +33,13 @@
 
 h4 {
 	color: #b0b0b0;
+	font-weight: 400;
 }
 
-.text {
+.text-name {
 	font-weight: 300;
+}
+
+.text-title {
+	font-weight: 400;
 }
